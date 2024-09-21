@@ -50,7 +50,7 @@ const AboutSection = () => {
           </Hide>
           <Hide>
             <motion.h2 variants={titleAnimation}>
-              <span>true.</span>
+              <span>true. Test</span>
             </motion.h2>
           </Hide>
         </Header>
