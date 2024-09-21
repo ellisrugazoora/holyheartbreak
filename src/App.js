@@ -82,6 +82,7 @@ function SwitchWithLocation() {
       <Route path="/" exact>
         <AboutUs />
       </Route>
+      {/*Test commit*/}
       <Route path="/work" exact>
         <OurWork />
       </Route>
